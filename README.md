@@ -18,6 +18,13 @@ The main_DNN.py script is responsible for generating the figures in the article.
 
 To train the DDNN and DDNN-SI models, the Distributed_FFNN.py can be used after generating the required datasets. The Clustered_FFNN.py is used for the CDNN model. Please note the names of the datasets and trained NN models while saving in order to use them in the main script and the functions that it utilizes (Predictions_DDNN.py, Predictions_CDNN.py).
 
+## Associated datasets
+
+The datasets are associated with the non-orthogonal pilot assignment case in the article. The input and labelled output for training the models therein, and the computed SE performance for the conventional optimization approaches are provided. All files, except for the 'APpositions' file should be grouped in a folder named 'pAssign_storage' and located in the same folder as the code package.
+
+https://zenodo.org/record/7524622#.Y76Uy3aZOF5
+
+
 ## Acknowledgements
 
 This work was supported by the FFL18-0277 grant from the Swedish Foundation for Strategic Research.
