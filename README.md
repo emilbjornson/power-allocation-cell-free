@@ -1,7 +1,7 @@
 Learning-Based Downlink Power Allocation in Cell-Free Massive MIMO Systems
 =====================================================================================================
 
-This is a code package is related to the following scientific article:
+This code package is related to the following scientific article:
 
 Mahmoud Zaher, Özlem Tuğfe Demir, Emil Björnson, Marina Petrova, “[Learning-Based Downlink Power Allocation in Cell-Free Massive MIMO Systems](https://arxiv.org/pdf/2109.03128.pdf),” IEEE Transactions on Wireless Communications, vol. 22, no. 1, pp. 174-188, Jan. 2023.
 
